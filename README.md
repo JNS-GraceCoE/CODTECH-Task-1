@@ -6,7 +6,7 @@ DURATION: JULY 15th, 2024 to AUGUST 15th, 2024
 MENTOR: MUZAMMIL AHMED
 
 # Overview of the Project
-## Project:EXPLORATORY DATA ANALYSIS (EDA) on Employee Data dataset
+## Project: EXPLORATORY DATA ANALYSIS (EDA) on Employee Data dataset
 ## Objective
 1. To perform EDA using libraries like pandas, numpy, and matplotlib or seaborn. 
 2. Explore the data's characteristics, distributions, correlations, and outliers.
@@ -42,6 +42,9 @@ Use the box plots to detect any outliers in Salary or Experience. You may consid
 ![Screenshot (229)](https://github.com/user-attachments/assets/4b314096-c6ca-4503-8e9b-8ca7877b5f45)
 ![Screenshot (230)](https://github.com/user-attachments/assets/0c1883b2-3969-46ff-af99-27f0f06965b9)
 ![Screenshot (231)](https://github.com/user-attachments/assets/96feb287-6a45-40b5-88b7-5061cc5a7a92)
+## Power BI dashboard
+![Screenshot (232)](https://github.com/user-attachments/assets/b02cdf95-0e5d-4ae7-8c83-756746642a03)
+![Screenshot (233)](https://github.com/user-attachments/assets/39801e57-0fda-4f65-8bf5-58cefd104cf3)
 ## Conclusion
 - Based on this EDA, you can summarize your findings. For example, you might notice that certain positions have higher salaries, or there is a strong positive correlation between Experience and Salary.
 - This analysis helps you understand the dataset and guides further analysis or modeling tasks.
